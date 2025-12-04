@@ -1,0 +1,46 @@
+# IntelliJ IDEA specific files and directories
+.idea/                        # IDE settings, cache, and temporary files
+*.iml                         # Module configuration files
+out/                          # Compiled class files
+*.ipr                         # Project configuration files
+*.iws                         # Workspace files
+
+# Java compiled files
+*.class                      # Compiled Java class files
+hs_err_pid*                  # Java crash dump files
+
+# Maven build artifacts
+target/                      # Build output directory
+.mvn/timing.properties       # Maven build timing properties
+
+# Gradle build artifacts
+.gradle/                     # Gradle build cache
+build/                       # Gradle build output
+.gradletasknamecache         # Gradle task cache
+
+# Temporary files
+*.tmp                        # Temporary files
+*.swp                        # Swap files
+*.swo                        # Swap files
+
+# Debug files
+*.hprof                      # Heap dump files
+
+# Local configuration files
+application.properties       # Local application properties
+application-local.properties # Local environment properties
+
+# Log files
+logs/                        # Application log files
+reports/                     # Test and build reports
+
+# Sensitive files
+secrets.properties           # Sensitive configuration files
+
+# Spring Boot specific (if applicable)
+config/                      # Local configuration overrides
+resources/application-local.yml # Local Spring configuration
+
+# Docker specific (if applicable)
+.docker/                     # Docker build artifacts
+docker-compose.override.yml  # Local Docker compose overrides 

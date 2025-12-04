@@ -10,7 +10,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/IO.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/IO/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +71,14 @@
       <option name="presentableId" value="Default" />
       <updated>1764659244363</updated>
     </task>
+    <task id="LOCAL-00001" summary="solution of task from step 8 lesson 2 module 5">
+      <created>1764693015322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764693015322</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,10 +86,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solution of task from step 8 lesson 2 module 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution of task from step 8 lesson 2 module 5" />
   </component>
 </project>
